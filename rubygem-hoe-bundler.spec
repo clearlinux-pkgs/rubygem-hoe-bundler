@@ -4,7 +4,7 @@
 #
 Name     : rubygem-hoe-bundler
 Version  : 1.2.0
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/hoe-bundler-1.2.0.gem
 Source0  : https://rubygems.org/downloads/hoe-bundler-1.2.0.gem
 Summary  : No detailed summary available
@@ -60,28 +60,20 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/hoe-bundler-1.2.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-bundler-1.2.0/ri/Hoe/Bundler/cdesc-Bundler.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-bundler-1.2.0/ri/Hoe/Bundler/define_bundler_tasks-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-bundler-1.2.0/ri/Hoe/Bundler/hoe_bundler_contents-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-bundler-1.2.0/ri/Hoe/cdesc-Hoe.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-bundler-1.2.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-bundler-1.2.0/ri/page-CHANGELOG_rdoc.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-bundler-1.2.0/ri/page-Manifest_txt.ri
-/usr/lib64/ruby/gems/2.2.0/doc/hoe-bundler-1.2.0/ri/page-README_rdoc.ri
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-bundler-1.2.0/.autotest
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-bundler-1.2.0/.gemtest
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-bundler-1.2.0/CHANGELOG.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-bundler-1.2.0/Manifest.txt
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-bundler-1.2.0/README.rdoc
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-bundler-1.2.0/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-bundler-1.2.0/lib/hoe/bundler.rb
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-bundler-1.2.0/test/fixture_project/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-bundler-1.2.0/test/fixture_project/History.txt
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-bundler-1.2.0/test/fixture_project/Manifest.txt
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-bundler-1.2.0/test/fixture_project/README.txt
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-bundler-1.2.0/test/fixture_project/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-bundler-1.2.0/test/fixture_project/lib/fixture_project.rb
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-bundler-1.2.0/test/fixture_project/test/test_fixture_project.rb
-/usr/lib64/ruby/gems/2.2.0/gems/hoe-bundler-1.2.0/test/test_hoe_bundler.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/hoe-bundler-1.2.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/hoe-bundler-1.2.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-bundler-1.2.0/.autotest
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-bundler-1.2.0/.gemtest
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-bundler-1.2.0/CHANGELOG.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-bundler-1.2.0/Manifest.txt
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-bundler-1.2.0/README.rdoc
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-bundler-1.2.0/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-bundler-1.2.0/lib/hoe/bundler.rb
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-bundler-1.2.0/test/fixture_project/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-bundler-1.2.0/test/fixture_project/History.txt
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-bundler-1.2.0/test/fixture_project/Manifest.txt
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-bundler-1.2.0/test/fixture_project/README.txt
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-bundler-1.2.0/test/fixture_project/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-bundler-1.2.0/test/fixture_project/lib/fixture_project.rb
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-bundler-1.2.0/test/fixture_project/test/test_fixture_project.rb
+/usr/lib64/ruby/gems/2.3.0/gems/hoe-bundler-1.2.0/test/test_hoe_bundler.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/hoe-bundler-1.2.0.gemspec
